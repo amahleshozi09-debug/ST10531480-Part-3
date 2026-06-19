@@ -20,6 +20,14 @@ REASON FOR CHOOSING THIS ORGANISATION
 
 Plumbing is in demand. Almost everywhere plumbing is needed. There are many opportunities in the plumbing and related sectors. The service we provide is needed by many, but there are challenges for our clients in finding the right plumbing companies or a registered plumber, even for emergency work. Such as blockage, leak tubs, pipe basting, and more. BJW PLUMBERS AND PROJECT PTY LTD aims to create a website for easy access online for the services we provide, without going around searching for people. Also, it is a trusted and registered company that also issues a COC (certificate of compliance) with a guarantee for a specific time. 
 
+Mission Statement 
+
+To provide reliable, affordable, and professional plumbing services while ensuring customer satisfaction and quality workmanship. 
+
+Vision Statement 
+
+To become one of South Africa's most trusted plumbing and maintenance companies through innovation, professionalism, and excellent customer service. 
+
  
 
 2.WEBSITE GOALS AND OBJECTIVES: 
@@ -27,10 +35,6 @@ Plumbing is in demand. Almost everywhere plumbing is needed. There are many oppo
 The website will benefit the company a lot because clients mostly trust websites with easy access, friendly users and the whole world is going digital in that way, our website will ensure our clients gets the right services they request, also get assisted online with questions they might have before we book a call out or actual work. Those are the steps to make this company successful and visible for everyone to see how recommended we are to our clients will also be displayed on our sites. You will also get the opportunity to review as well, based on the service we provided on your project. 
 
 The website can help our company reach more clients in South Africa. It can increase visibility and make it easier for potential clients to find us online.  
-
- 
-
- 
 
  
 
@@ -184,6 +188,12 @@ Design Style
 
 The website uses a modern and professional design intended to create trust and make it easy for customers to request plumbing services. 
 
+ 
+
+ 
+
+ 
+
 Colour Scheme 
 
 COLOUR 
@@ -205,8 +215,6 @@ Content section
 Orange 
 
 Button and call-to-action 
-
- 
 
  
 
@@ -332,177 +340,305 @@ Mobile-friendly layout.
 
  
 
-Mission Statement 
+7. TIMELINE AND MILESTONES: 
 
-To provide reliable, affordable, and professional plumbing services while ensuring customer satisfaction and quality workmanship. 
+The following timeline outlines the estimated development schedule for the BJW Plumbers and Projects PTY LTD website. 
 
-Vision Statement 
+Phase 
 
-To become one of South Africa's most trusted plumbing and maintenance companies through innovation, professionalism, and excellent customer service. 
+Milestone 
 
- 
+Duration 
 
-7.TIMELINE AND MILESTONES: 
+Phase 1 
 
-Here is a breakdown of the timeline and milestones in weeks for BJW PLUMBERS AND PROJECTS PTY LTD, designed to get a new plumbing company operation. 
+Project Planning and Requirements Gathering 
 
-PHASE1:  
+Week 1 
 
-Planning and legal setup (weeks 1-3) 
+Phase 1 
 
-week1 
+Research Competitors and Website Content 
 
-Business planning and structure 
+Week 2 
 
-week2 
+Phase 1 
 
-Registration and legal documentation 
+Sitemap and Website Structure Planning 
 
-week3 
+Week 3 
 
-Licencing and insurance 
+Phase 2 
 
-PHASE 2:                     Logistics and infrastructure (weeks 4-6) 
+Create Wireframes and Layout Design 
 
-week4 
+Week 4 
 
-Tool and vehicle procurement 
+Phase 2 
 
-week5 
+Select Colour Scheme and Typography 
 
-Safety and compliance 
+Week 5 
 
-week6 
+Phase 2 
 
-Pricing and software 
+Client Review and Design Approval 
 
-PHASE 3:                     Brand, Marketing and launch (weeks 7-9) 
+Week 6 
 
-week7 
+Phase 3 
 
-Branding and online presence 
+Homepage Development (index.html) 
 
-week8 
+Week 7 
 
-Local market push 
+Phase 3 
 
-week9 
+About and Services Pages Development 
 
-Operation readiness check 
+Week 8 
 
-PHASE 4:                    Initial operation and optimization (weeks 10-12+) 
+Phase 3 
 
-Week 10-11 
+Contact and Login Pages Development 
 
-First jobs and feedback 
+Week 9 
+
+Phase 4 
+
+CSS Styling and Responsive Design 
+
+Week 10 
+
+Phase 4 
+
+JavaScript Functionality and Form Validation 
+
+Week 11 
+
+Phase 4 
+
+Google Maps Integration and Image Optimization 
 
 Week 12 
 
-Review and adjusts 
+Phase 5 
+
+Testing and Debugging 
+
+Week 13 
+
+Phase 5 
+
+Mobile Responsiveness Testing 
+
+Week 14 
+
+Phase 5 
+
+Final Improvements and Content Updates 
+
+Week 15 
+
+Phase 6 
+
+Website Deployment and GitHub Publishing 
+
+Week 16 
+
+Phase 6 
+
+Maintenance and Performance Monitoring 
+
+Week 17–18 
 
  
 
- 
+Key Strategic Milestones 
 
- 
+Month 
 
-KEY STRATEGIC MILESTONES 
+Milestone 
 
-Month1 
+Month 1 
 
-Legal structure, Insurance and licencing finalized 
+Website planning and content collection completed 
 
 Month 2 
 
-Vehicle, Equipment and operating software in place 
+Design and page development completed 
 
-Month 3-5 
+Month 3 
 
-First marketing campaign live, initial operational projects completed. 
+Responsive design and JavaScript features implemented 
 
-Month 6-12 
+Month 4 
 
-Achieving consistent, recurring weekly revenue and client backlog. 
+Testing and debugging completed 
+
+Month 5 
+
+Website uploaded to GitHub and published 
+
+Month 6 
+
+Website fully operational with ongoing maintenance 
+
+Major Deliverables 
+
+Week 1–3: Planning and Research 
+
+Gather business requirements.  
+
+Identify target audience.  
+
+Plan website structure. 
+
+Week 4–6: Design Phase 
+
+Create layouts and wireframes.  
+
+Choose colours and typography.  
+
+Review design.  
+
+Week 7–12: Development Phase 
+
+Build Home, About, Services, Contact and Login pages.  
+
+Apply CSS styling.  
+
+Add JavaScript functionality.  
+
+Integrate Google Maps.  
+
+Week 13–15: Testing Phase 
+
+Check responsiveness.  
+
+Fix bugs.  
+
+Optimize performance.  
+
+Week 16–18: Deployment Phase 
+
+Upload project to GitHub.  
+
+Publish website.  
+
+Perform maintenance and updates. 
 
  
 
-8.BUDGETS: Startup 
+8. BUDGETS: ESTIMATES 
+
+The following budget estimate is based on current South African web development and hosting prices. The website is designed for BJW Plumbers and Projects PTY LTD and includes development, design, hosting, testing, and maintenance. Typical South African business websites range from approximately R5,000 to R20,000, depending on complexity 
 
 CATEGORY 
 
-ESTIMATED COST 
+DESCRIPTION 
 
-NOTES 
+ESTIMETED COST(ZAR) 
 
-Vehicle (down payment/lease) 
+Research and Planning 
 
-R3000-R8000 
+Content planning and website structure 
 
-*Can be higher if purchasing outright 
+R1 500 
 
-Vehicle wrapping and racking 
+UI/UX Design 
 
-R2500-3500 
+Colours, Layout, Typography and responsive design 
 
-*Essential for branding 
+R2 500 
 
-Tools and equipment 
+Front-End Development 
 
-R5000-15000 
+HTML, CSS and JavaScript development 
 
-*Camera, drain cleaning, bow hole machine 
+R4 000 
 
-Software/misc. setup 
+Responsive Design 
 
-R300-1000 
+Mobile and tablet optimization 
 
-*CRM, Accounting 
+R1 200 
 
-Licensing and Insurance 
+Forms and Validation 
 
-R1500-3500 
+Quote form, Login form and contact validation 
 
-Legal compliance 
+R1 000 
 
-Marketing launch 
+Google Maps Integration 
 
-R2000-5000 
+Contact location integration 
 
-*Website, branding, LSA 
+R500 
 
-Contingency fund (10-20%) 
+Testing and Debugging 
 
-R2000-5000 
+Cross-browser and device testing 
 
-*Emergency buffer 
+R1 000 
+
+Domain registration 
+
+. co.za domain(1year) 
+
+R150 
+
+Hosting 
+
+Shared hosting package (1year) 
+
+R1 200 
+
+SSL Certificate 
+
+Website security certificate 
+
+Free (Let’s Encrypt) 
+
+SOE Setup 
+
+Meta tags and pages optimization 
+
+R1 000 
+
+Maintenance and support 
+
+6 Months support and updates 
+
+R2 500 
+
+GitHub repository and version control 
+
+Source code management 
+
+free 
 
 TOTAL(ESTIMETED) 
 
-R16300-R51000+ 
+Budget 
 
-VARIE BY SCALE 
-
- 
-
-Operating expenses (monthly buffer) 
-
-Fuel / maintenances: R1500-R3000+ 
-
-Marketing/ advertising: R1250 
-
-Software (CRM Accounting): R250-R500 
-
-Insurance/ banding: R1100+ per month 
-
-Inventory/parts: variable, often 100% of revenue initially. 
+R16 550 
 
  
 
- 
+Budget notes 
 
- 
+Domain registration costs approximately R80–R150 per year.  Budget notes 
 
- 
+Shared hosting typically costs R80–R300 per month.  
+
+Small business websites in South Africa usually cost between R5,500 and R20,000, while more advanced sites can cost much more.  
+
+GitHub and GitHub Pages are free and can be used for version control and publishing.  
+
+Ongoing maintenance after six months may cost approximately R300–R800 per month.  
+
+Additional features such as online booking, WhatsApp integration, customer reviews, and payment gateways would increase the overall cost. 
 
  
 
@@ -857,3 +993,10 @@ LOGO
  Klug, B. and Williams, U. (n.d.). Canva. [online] CC Advisor. Available at: https://canva. 
 
 ‌plumbing (2013). [230] Available at: https://storkemage.co.za [Accessed  
+
+https://hostigo.co.za/how-much-does-a-website-cost-in-south-africa-2026-guide/?utm_source=chatgpt.com 
+
+https://owlmedia.co.za/how-much-does-a-website-cost-in-south-africa-2026-pricing-guide/?utm_source=chatgpt.com 
+
+
+
